@@ -1,0 +1,1 @@
+pip install tensorflow pandas numpy scikit-learn matplotlib seaborn lasio
